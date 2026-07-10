@@ -90,3 +90,8 @@ A cloud-based ticket booking platform designed for scalability and reliability.
 - GitHub: https://github.com/roshankrhonnu2005-boop
 
 ⭐ I believe in continuous learning, building impactful projects...
+
+Thanks for visiting my profile!
+If you like my work, consider starring one of my repositories or connecting with me on LinkedIn.
+
+Happy Coding!
