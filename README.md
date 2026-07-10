@@ -1,10 +1,10 @@
 # Hi there, I'm Roshan K R 👋
 
-🎓 BCA Final Year Student (2027) at Bapuji Institute of Hi-Tech Education (BIHE), Davangere, Karnataka.
+## Data Analyst | Python Developer |  Web Developer | Cloud Computing Enthusiast
 
-💻 Passionate about Software Development, Python Programming, Web Development, Cloud Computing, and Machine Learning. I enjoy building real-world projects, learning new technologies, and solving problems through code.
+Passionate about Software Development, Python Programming, Web Development, Cloud Computing, and Machine Learning. I enjoy building real-world projects, learning new technologies, and solving problems through code.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshankrhonnu2005-boop&show_icons=true&theme=github_dark)
 
@@ -16,7 +16,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=roshankrhonnu2005-boop&theme=darkhub)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -32,17 +32,17 @@
 
 ## About Me
 
-- 🎓 Bachelor of Computer Applications (BCA) – Final Year (2027)
-- 🌱 Currently learning:
-  - Next.js
-  - Flask
-  - Tailwind CSS
-  - FastAPI
-  - LangChain
-  - Linux & UNIX
-  - RAG
+-  Bachelor of Computer Applications (BCA) – Final Year (2027)
+ -  Currently learning:
+   - Next.js
+   - Flask
+   - Tailwind CSS
+   - FastAPI
+   - LangChain
+   - Linux & UNIX
+   - RAG
 
-- 💡 Interested in:
+-  Interested in:
   - Python Development
   - Web Development
   - Cloud Computing
@@ -50,29 +50,28 @@
   - Data Analytics
   - Open Source Technologies
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 - Python
 - Flask
 - SQL
 - Machine Learning
 - Cloud Computing
-- Git & GitHub
 - Linux & UNIX
 - HTML, CSS, JavaScript
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 💳 Credit Card Fraud Detection
+### Credit Card Fraud Detection
 A machine learning project that detects fraudulent credit card transactions using real-world datasets.
 
-### 🔍 Duplicate Data Validation System
+### Duplicate Data Validation System
 A system that identifies and prevents duplicate or redundant data entries in a database.
 
-### 🎫 Online Ticket Booking System
+### Online Ticket Booking System
 A cloud-based ticket booking platform designed for scalability and reliability.
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Python Development
 - Cloud Technologies
@@ -85,9 +84,15 @@ A cloud-based ticket booking platform designed for scalability and reliability.
 - Web Development Internship – CodSoft
 - Python Development Internship – CodeAlpha
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/roshan-k-r-52405a324
 - GitHub: https://github.com/roshankrhonnu2005-boop
 
 ⭐ I believe in continuous learning, building impactful projects...
+
+## Thanks for visiting my profile!
+
+If you like my work, consider starring one of my repositories or connecting with me on LinkedIn.
+
+Happy Coding!
