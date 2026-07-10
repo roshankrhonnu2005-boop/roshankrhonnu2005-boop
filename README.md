@@ -4,6 +4,25 @@
 
 💻 Passionate about Software Development, Python Programming, Web Development, Cloud Computing, and Machine Learning. I enjoy building real-world projects, learning new technologies, and solving problems through code.
 
+## About Me
+
+- 🎓 Bachelor of Computer Applications (BCA) – Final Year (2027)
+- 🌱 Currently learning:
+  - Advanced Python Development
+  - Flask & Backend Development
+  - Cloud Computing
+  - Machine Learning
+  - Data Analysis
+  - Linux & UNIX
+
+- 💡 Interested in:
+  - Python Development
+  - Web Development
+  - Cloud Computing
+  - Machine Learning
+  - Data Analytics
+  - Open Source Technologies
+
 ## 🚀 Skills & Technologies
 
 - Python
