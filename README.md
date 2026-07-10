@@ -1,4 +1,4 @@
-# README.md
+
 # Hi there, I'm Roshan K R 👋
 
 🎓 BCA Final Year Student (2027) at Bapuji Institute of Hi-Tech Education (BIHE), Davangere, Karnataka.
