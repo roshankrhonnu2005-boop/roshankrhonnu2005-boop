@@ -74,7 +74,6 @@ A cloud-based ticket booking platform designed for scalability and reliability.
 
 - Python Development Internship – CodeVeda Technologies
 - Web Development Internship – CodSoft
-- Python Development Internship – CodeAlpha
 
 ## Connect With Me
 
