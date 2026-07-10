@@ -6,23 +6,23 @@ Passionate about Software Development, Python Programming, Web Development, Clou
 
 ## About Me
 
-- Bachelor of Computer Applications (BCA) – Final Year (2027)
-- Currently learning:
-      - Next.js
-      - Flask
-      - Tailwind CSS
-      - FastAPI
-      - LangChain
-      - Linux & UNIX
-      - RAG
+BCA Final Year Student at ( BIHE )
+## Currently Learning:
+   • Next.js
+   • Flask
+   • Tailwind CSS
+   • FastAPI
+   • LangChain
+   • Linux & UNIX
+   • RAG
 
-- Interested in:
-       - Python Development
-       - Web Development
-       - Cloud Computing
-       - Machine Learning
-       - Data Analytics
-       - Open Source Technologies
+## Interested in:
+   • Python Development
+   • Web Development
+   • Cloud Computing
+   • Machine Learning
+   • Data Analytics
+   • Open Source Technologies
 
 ## Skills & Technologies
 
