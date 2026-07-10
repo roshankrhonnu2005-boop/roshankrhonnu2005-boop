@@ -2,9 +2,9 @@
 
 🎓 BCA Final Year Student (2027) at Bapuji Institute of Hi-Tech Education (BIHE), Davangere, Karnataka.
 
-💻 Passionate about Software Development, Python Programming, Web Development, Cloud Computing, and Machine Learning. I enjoy building real-world projects, learning new technologies, and solving problems through code.
+Passionate about Software Development, Python Programming, Web Development, Cloud Computing, and Machine Learning. I enjoy building real-world projects, learning new technologies, and solving problems through code.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshankrhonnu2005-boop&show_icons=true&theme=github_dark)
 
@@ -16,7 +16,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=roshankrhonnu2005-boop&theme=darkhub)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -33,7 +33,7 @@
 ## About Me
 
 - 🎓 Bachelor of Computer Applications (BCA) – Final Year (2027)
-- 🌱 Currently learning:
+-  Currently learning:
   - Advanced Python Development
   - Flask & Backend Development
   - Cloud Computing
@@ -60,18 +60,18 @@
 - Linux & UNIX
 - HTML, CSS, JavaScript
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 💳 Credit Card Fraud Detection
+### Credit Card Fraud Detection
 A machine learning project that detects fraudulent credit card transactions using real-world datasets.
 
-### 🔍 Duplicate Data Validation System
+### Duplicate Data Validation System
 A system that identifies and prevents duplicate or redundant data entries in a database.
 
-### 🎫 Online Ticket Booking System
+### Online Ticket Booking System
 A cloud-based ticket booking platform designed for scalability and reliability.
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Python Development
 - Cloud Technologies
@@ -83,7 +83,7 @@ A cloud-based ticket booking platform designed for scalability and reliability.
 - Python Development Internship – CodeVeda Technologies
 - Web Development Internship – CodSoft
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/roshan-k-r-52405a324
 - GitHub: https://github.com/roshankrhonnu2005-boop
