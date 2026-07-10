@@ -34,12 +34,14 @@ Passionate about Software Development, Python Programming, Web Development, Clou
 
 - 🎓 Bachelor of Computer Applications (BCA) – Final Year (2027)
 -  Currently learning:
-  - Advanced Python Development
-  - Flask & Backend Development
-  - Cloud Computing
-  - Machine Learning
-  - Data Analysis
-  - Linux & UNIX
+      Next.js
+      Tailwind CSS
+      FastAPI
+      LangChain
+      RAG
+      Generative AI
+      Data Visualization & Modelling
+      Linux & UNIX
 
 - 💡 Interested in:
   - Python Development
