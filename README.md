@@ -10,10 +10,6 @@ Passionate about Software Development, Python Programming, Web Development, Clou
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=roshankrhonnu2005-boop&theme=github-dark)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=roshankrhonnu2005-boop&theme=darkhub)
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
