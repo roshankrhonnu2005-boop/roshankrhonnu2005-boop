@@ -10,8 +10,6 @@ Passionate about Software Development, Python Programming, Web Development, Clou
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=roshankrhonnu2005-boop&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrhonnu2005-boop&layout=compact&theme=github_dark)
-
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=roshankrhonnu2005-boop&theme=darkhub)
