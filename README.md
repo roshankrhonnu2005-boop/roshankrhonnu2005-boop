@@ -6,8 +6,6 @@ Passionate about Software Development, Python Programming, Web Development, Clou
 
 ## GitHub Stats
 
-![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshankrhonnu2005-boop&show_icons=true&theme=github_dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=roshankrhonnu2005-boop&theme=github-dark)
 
 ## Tech Stack
