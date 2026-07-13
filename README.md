@@ -8,32 +8,32 @@ Passionate about Software Development, Python Programming, Web Development, Clou
 
 BCA Final Year Student at ( BIHE )
 ## Currently Learning:
-   • Next.js
-   • Flask
-   • Tailwind CSS
-   • FastAPI
-   • LangChain
-   • Linux & UNIX
-   • RAG
+   -  Next.js
+   -  Flask
+   -  Tailwind CSS
+   -  astAPI
+   -  LangChain
+   -  Linux & UNIX
+   -  RAG
 
 ## Interested in:
-   • Python Development
-   • Web Development
-   • Cloud Computing
-   • Machine Learning
-   • Data Analytics
-   • Open Source Technologies
+   -  Python Development
+   -  Web Development
+   -  Cloud Computing
+   -  Machine Learning
+   -  Data Analytics
+   -  Open Source Technologies
 
 ## Skills & Technologies
 
-- Python
-- Flask
-- SQL
-- Machine Learning
-- Cloud Computing
-- Linux & UNIX
-- HTML, CSS, JavaScript
-
+  - Python
+  - Flask
+  - SQL
+  - Machine Learning
+  - Cloud Computing
+  - Linux & UNIX
+  - HTML, CSS, JavaScript
+  
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=roshankrhonnu2005-boop&theme=github-dark)
