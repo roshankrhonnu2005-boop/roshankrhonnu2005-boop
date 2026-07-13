@@ -11,7 +11,7 @@ BCA Final Year Student at ( BIHE )
    -  Next.js
    -  Flask
    -  Tailwind CSS
-   -  astAPI
+   -  FastAPI
    -  LangChain
    -  Linux & UNIX
    -  RAG
