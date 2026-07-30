@@ -38,19 +38,48 @@ BCA Final Year Student at ( BIHE )
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=roshankrhonnu2005-boop&theme=github-dark)
 
-## Tech Stack
+## 🛠️ Tech Stack
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-5B9BD5?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-29B6F6?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-512DA8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-7B1FA2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-009688?style=for-the-badge)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1565C0?style=for-the-badge)
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Featured Projects
 
