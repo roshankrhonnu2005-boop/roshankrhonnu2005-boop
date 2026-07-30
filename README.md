@@ -1,4 +1,4 @@
-# Hi there, I'm Roshan K R 👋
+huu# Hi there, I'm Roshan K R 👋
 
 ## Data Analyst | Python Developer |  Web Developer | Cloud Computing Enthusiast
 
@@ -104,10 +104,48 @@ A cloud-based ticket booking platform designed for scalability and reliability.
 - Python Development Internship – CodeVeda Technologies
 - Web Development Internship – CodSoft
 
-## Connect With Me
+## 📊 GitHub Analytics
 
-- LinkedIn: https://www.linkedin.com/in/roshan-k-r-52405a324
-- GitHub: https://github.com/roshankrhonnu2005-boop
+<p align="center">
+  <a href="https://github.com/roshankrhonnu2005-boop">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=roshankrhonnu2005-boop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/roshankrhonnu2005-boop">
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankrhonnu2005-boop&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/roshankrhonnu2005-boop">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankrhonnu2005-boop&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  </a>
+</p>
+
+---
+
+##  Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-k-r-52405a324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/roshankrhonnu2005-boop" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/itzrockyoffi_05" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:roshankrhonnu2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+> *"Code. Learn. Build. Repeat. Every project is a step toward becoming a better developer."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 ⭐ I believe in continuous learning, building impactful projects...
 
