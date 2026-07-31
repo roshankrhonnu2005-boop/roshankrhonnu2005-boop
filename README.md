@@ -103,6 +103,32 @@ A cloud-based ticket booking platform designed for scalability and reliability.
 
 - Python Development Internship – CodeVeda Technologies
 - Web Development Internship – CodSoft
+- 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=roshankrhonnu2005-boop&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankrhonnu2005-boop&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrhonnu2005-boop&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankrhonnu2005-boop&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ##  Connect With Me
 
